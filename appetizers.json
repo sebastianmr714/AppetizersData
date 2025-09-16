@@ -1,0 +1,54 @@
+{
+  "request": [
+    {
+      "id": 1,
+      "name": "Crispy Calamari",
+      "Description": "Golden-fried calamari rings with a zesty marinara dipping sauce.",
+      "price": 8.99,
+      "imageURL": "https://picsum.photos/200/300?random=1",
+      "calories": 420,
+      "protein": 22,
+      "carbs": 35
+    },
+    {
+      "id": 2,
+      "name": "Spicy Buffalo Wings",
+      "Description": "Juicy chicken wings tossed in a fiery buffalo sauce, served with ranch.",
+      "price": 10.49,
+      "imageURL": "https://picsum.photos/200/300?random=2",
+      "calories": 610,
+      "protein": 45,
+      "carbs": 12
+    },
+    {
+      "id": 3,
+      "name": "Garlic Parmesan Fries",
+      "Description": "Crispy fries topped with garlic butter, Parmesan cheese, and parsley.",
+      "price": 6.75,
+      "imageURL": "https://picsum.photos/200/300?random=3",
+      "calories": 530,
+      "protein": 8,
+      "carbs": 67
+    },
+    {
+      "id": 4,
+      "name": "Avocado Spring Rolls",
+      "Description": "Fresh avocado, cilantro, and crisp veggies wrapped and served with a tangy sauce.",
+      "price": 7.95,
+      "imageURL": "https://picsum.photos/200/300?random=4",
+      "calories": 340,
+      "protein": 6,
+      "carbs": 40
+    },
+    {
+      "id": 5,
+      "name": "Mini Sliders",
+      "Description": "Three juicy beef sliders with cheddar cheese, pickles, and house sauce.",
+      "price": 11.25,
+      "imageURL": "https://picsum.photos/200/300?random=5",
+      "calories": 780,
+      "protein": 38,
+      "carbs": 55
+    }
+  ]
+}
